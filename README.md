@@ -3,11 +3,13 @@
 - **Organizer**: Korea Culture & Tourism Institute (KCTI)  
 - **Sponsor**: Shinhan Card  
 <br/>
+<br/>
 
 ## ✏️ Project Overview
 - **Planning & Analysis**: Jaewoo Seo, Jeongmin Lim  
 - **Project Period**: November 18, 2024 – November 25, 2024  
 - **Project Title**: **Green Score–Based Hotel Selection and Attraction Strategy to Address Regional Polarization in Green Stay Tourism**
+<br/>
 <br/>
 
 ## 🧩 Data Collection
@@ -26,8 +28,10 @@
     - Annual total hotel revenue
   - These variables represent regional accommodation demand and tourism consumption levels.
 <br/>
+<br/>
 
 ## 🗂️ Data Preprocessing and Final Dataset
 Each dataset was organized at the **province-level (si/do)** and unnecessary variables were removed.  
 The datasets were then merged using the **region name (si/do)** as the key to construct the final dataset.
+<br/>
 <br/>
